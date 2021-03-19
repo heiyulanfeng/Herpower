@@ -4,7 +4,7 @@ baseurl: "/herpower"
 # 网站的主标题
 title: "HER POWER in Tech World"
 # 网站副标题
-subTitle: "Listen to the Her Stories"
+subTitle: "Listen to Her Stories"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
